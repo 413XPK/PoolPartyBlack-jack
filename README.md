@@ -22,7 +22,7 @@ https://pages.git.generalassemb.ly/413x-pk/ABlueblackJack/<br/>
 <br/>
 <br/>
 Next Steps:<br/> 
-+Animations<br/>
++Add animations to cards also to hiding and showing animations<br/>
 +Hide second card of preceeding players<br/>
 +Add a split to A's<br/>
 +To include a maximum of up to 6 players.<br/>
