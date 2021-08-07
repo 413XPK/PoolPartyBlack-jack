@@ -1,8 +1,9 @@
 .game{
     text-align: center;
-    font-family: Gill Sans, sans-serif;
+}
 
-    
+.game-body{
+    font-family: Gill Sans, sans-serif;
 }
 
 .btn{
