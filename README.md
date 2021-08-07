@@ -33,5 +33,6 @@ https://pages.git.generalassemb.ly/413x-pk/ABlueblackJack/<br/>
 Next Steps:<br/> 
 +Add animations to cards also to hiding and showing animations<br/>
 +Hide second card of preceeding players<br/>
-+Add a split to A's<br/>
++if points total over 21 on double A's then one of the A's weight value is 1<br/>
 +To include a maximum of up to 6 players.<br/>
++possibly make the second player a bot. (under 17 hit then end).<br/>
