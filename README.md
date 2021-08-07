@@ -5,7 +5,7 @@ There is no clear consensus, but researchers agree that Blackjack probably origi
 The French cards were called Vingt-et-Un, translated it means twenty-one.<br/>
 Besides the various versions of Vingt-et-Un, the popularity of the card games expanded through North America, thanks to the French colonists.<br/>
 <br/>
-But across Europe, there are other card games that could have determined the development of, Vingt-et-Un: seen as the forerunner of Blackjack.<br/>
+But across Europe, other card games could have determined the development of... Vingt-et-Un: seen as the forerunner of Blackjack.<br/>
 These card games are Spanish Trente-Un (One and Thirty), Italian Sette e Mezzo (Seven and a Half) and French Quinze (Fifteen).<br/>
 <br/>
 <br/>
