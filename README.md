@@ -18,7 +18,7 @@ languages that are being used:<br/>
 HTML, CSS, Javascript, jQuery ( a little bit)<br/>
 <br/>
 <br/>
-https://pages.git.generalassemb.ly/413x-pk/BlueBlackjack/<br/>
+https://pages.git.generalassemb.ly/413x-pk/ABlueblackJack/<br/>
 <br/>
 <br/>
 Next Steps:<br/> 
