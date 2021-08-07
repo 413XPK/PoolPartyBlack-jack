@@ -1,7 +1,7 @@
 # Pool Party Blackjack
 <br/>
 The origins of Blackjack is still under debate to this day. <br/>
-There is no clear consensus, but researchers agree that Blackjack probably originated in the French casinos around 1700. <br/>
+Researchers agree (without consensus) that Blackjack probably originated in the French casinos around 1700. <br/>
 The French cards were called Vingt-et-Un, translated it means twenty-one.<br/>
 Besides the various versions of Vingt-et-Un, the popularity of the card games expanded through North America, thanks to the French colonists.<br/>
 <br/>
