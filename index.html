@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BlackJack</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/cardstarter.css">
+    
+</head>
+<body style="background-image: url('imgs/background.png')">
+    <div class= 'game' >
+        <h1>Pool Party BlackJack</h1>
+        
+
+        <div class='game-body'>
+            <div class='game-options'>
+                <div id='restartBtn'>
+                    <input type='button' id='btnStart' class='btn' value='Start' onclick='startBlackJack()'/>
+                </div>
+                <div id='coreBtns'>
+                    <input type='button' class='btn' id='hit' value='hit me' onclick='hitMe()' disabled/>
+                    <input type='button' class='btn' id='stay' value='stay' onclick='stay()' disabled/>
+                </div>    
+                <div>
+                    <input type='button' class='btn' id='rules'value='Rules' onclick="showRules()"/>
+                </div>
+            </div>
+
+            <div id='bettings'>
+                <div id='moneyDisp' disabled>Player 1 has:</div>
+                <div id="moneys" style="color:greenyellow; font-size:x-large" ></div>
+                <div id='betdiv'>
+                    <span style="color:black">Your bet:</span>&nbsp; <input type=text size=6 id="bet" />
+                </div>
+            </div>
+            
+            <div id='showingRules' style='display:none;'>
+                <p> 
+                The goal of blackjack is to beat the other players hand without going over 21.<br/>
+                Each player starts with two cards.<br/>
+                To "Hit" is to ask for another card.<br/>
+                To "Stay" is to hold your total and end your turn.<br/>
+                If you go over 21 you bust, and the other player wins regardless of their hand.
+                </p>
+            </div>
+
+            <div id='startAndEnd'>
+                <div class='status' id='status'>
+                Welcome to BlackJack, please press start!
+                </div>
+                <input type="button" class="reset btn" id='reset' value="back again!" onClick="reset()" style='display:none;'/>
+            </div>
+
+
+            <div id='players' class='players'></div>
+
+        </div>
+    </div>
+
+    <script async defer src='scripts/main.js'></script>
+</body>
+</html>
+
