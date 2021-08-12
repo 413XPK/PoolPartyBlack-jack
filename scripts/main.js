@@ -247,7 +247,9 @@ function hitMe(){
     check();
 
     if (players[currentPlayer].Hand.length === 5){
-        document.getElementById('hit').disabled = true; 
+        document.getElementById('hit').disabled = true;
+        currentPlayer += 1;
+        document.getElementById('hit').disabled = false; 
     }
     if(currentPlayer===[1]){
         document.getElementById('hit').disabled = false; 
