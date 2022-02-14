@@ -27,7 +27,7 @@ languages that are being used:<br/>
 HTML, CSS, Javascript, jQuery ( a little bit)<br/>
 <br/>
 <br/>
-[Lauch deployed game](https://pages.git.generalassemb.ly/413x-pk/ABlueblackJack/<br/>)
+[Lauch deployed game](https://pages.git.generalassemb.ly/413x-pk/ABlueblackJack/)<br/>
 <br/>
 <br/>
 Next Steps:<br/> 
