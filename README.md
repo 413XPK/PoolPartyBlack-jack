@@ -20,14 +20,16 @@ notes:<br/>
 2.Only play to win for both players!<br/>
 <br/>
 <br/>
-https://git.generalassemb.ly/413x-pk/BlackJack/blob/master/screenshots.jpg<br/>
+[Screenshots](https://git.generalassemb.ly/413x-pk/BlackJack/blob/master/screenshots.jpg)
+<br/>
 <br/>
 <br/>
 languages that are being used:<br/>
 HTML, CSS, Javascript, jQuery ( a little bit)<br/>
 <br/>
 <br/>
-[Lauch deployed game](https://pages.git.generalassemb.ly/413x-pk/ABlueblackJack/)<br/>
+[Lauch deployed game](https://pages.git.generalassemb.ly/413x-pk/ABlueblackJack/)
+<br/>
 <br/>
 <br/>
 Next Steps:<br/> 
